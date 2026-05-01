@@ -1,0 +1,5 @@
+backend/node_modules
+contracts/node_modules
+frontend/node_modules
+client-ml/node_modules
+.env
